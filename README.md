@@ -45,11 +45,16 @@ LLMs act as the **primary author**.
   - *Role-Based*: 
     - SWAG [EMNLP Findings '24] [[Paper]](https://aclanthology.org/2024.findings-emnlp.824/) [[Code]](https://github.com/jonnypei/swag-storytelling)
     - CritiCS [EMNLP '24] [[Paper]](https://aclanthology.org/2024.emnlp-main.1046/) [[Code]](https://github.com/EMNLP-2024-CritiCS/Collective-Critics-for-Creative-Story-Generation)
+  - *Persona-Based*:
+    - Smallville [UIST '23] [[Paper]](https://dl.acm.org/doi/10.1145/3586183.3606763)
+    - AuraSight [[Paper]](http://arxiv.org/abs/2509.08927)
 
 ### 2. Author Assistance
 LLMs act as **assistants to human authors**.
 - **Adaptive Stories**
   - StoryVerse [FDG '24] [[Paper]](https://dl.acm.org/doi/10.1145/3649921.3656987)
+  - CALYPSO [AIIDE '23] [[Paper]](https://ojs.aaai.org/index.php/AIIDE/article/view/27534)
+  - ChatGPT-as-a-Game-Master [IAIT '23] [[Paper]](https://dl.acm.org/doi/10.1145/3628454.3628457)
 - **Static Stories**
   - *Conversational*: 
     - CharacterMeet [CHI '24] [[Paper]](https://dl.acm.org/doi/10.1145/3613904.3642105)
