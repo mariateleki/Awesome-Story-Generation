@@ -62,6 +62,7 @@ LLMs act as **assistants to human authors**.
     - Metamorpheus [CHI '24] [[Paper]](https://dl.acm.org/doi/10.1145/3613904.3642410)
   - *Prompt-Based*: 
     - MEAT [CHI '24] [[Paper]](https://dl.acm.org/doi/10.1145/3613904.3642852)
+    - SARD [HCII '24] [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-76806-4_7)
 
 ---
 
