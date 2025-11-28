@@ -39,6 +39,7 @@ LLMs act as the **primary author**.
     - MoPS [ACL '24] [[Paper]](https://aclanthology.org/2024.acl-long.117/)
   - *Outline-Based*: 
     - DOME [NAACL '25] [[Paper]](https://aclanthology.org/2025.naacl-long.63/) [[Code]](https://github.com/Qianyue-Wang/Generating-Long-form-Story-Using-Dynamic-Hierarchical-Outlining-with-Memory-Enhancement) [[Dataset]](https://github.com/Qianyue-Wang/DOME_dataset)
+    - Creating Suspenseful Stories: Iterative Planning with Large Language Models [EACL '24] [[Paper]](https://aclanthology.org/2024.eacl-long.147/)
 - **Multi-Agent Collaboration**
   - *Sequential*: 
     - CollabStory [NAACL '25] [[Paper]](https://aclanthology.org/2025.findings-naacl.203/) [[Code]](https://github.com/saranya-venkatraman/CollabStory)
