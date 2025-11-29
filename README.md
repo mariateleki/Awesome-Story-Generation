@@ -37,18 +37,23 @@ LLMs act as the **primary author**.
   - *Prompt-Based*: 
     - PMH [CSCW '24] [[Paper]](https://dl.acm.org/doi/10.1145/3678884.3681921)
     - MoPS [ACL '24] [[Paper]](https://aclanthology.org/2024.acl-long.117/)
+    - LRL LM [AfricaNLP '25] [[Paper]](https://aclanthology.org/2025.africanlp-1.16/)
+    - CCI [ACL Findings '25] [[Paper]](https://aclanthology.org/2025.findings-acl.82/)
   - *Outline-Based*: 
     - DOME [NAACL '25] [[Paper]](https://aclanthology.org/2025.naacl-long.63/) [[Code]](https://github.com/Qianyue-Wang/Generating-Long-form-Story-Using-Dynamic-Hierarchical-Outlining-with-Memory-Enhancement) [[Dataset]](https://github.com/Qianyue-Wang/DOME_dataset)
     - Creating Suspenseful Stories: Iterative Planning with Large Language Models [EACL '24] [[Paper]](https://aclanthology.org/2024.eacl-long.147/)
+    - STORYTELLER [ACL '25] [[Paper]](https://aclanthology.org/2025.findings-acl.1071.pdf) 
 - **Multi-Agent Collaboration**
   - *Sequential*: 
     - CollabStory [NAACL '25] [[Paper]](https://aclanthology.org/2025.findings-naacl.203/) [[Code]](https://github.com/saranya-venkatraman/CollabStory)
   - *Role-Based*: 
     - SWAG [EMNLP Findings '24] [[Paper]](https://aclanthology.org/2024.findings-emnlp.824/) [[Code]](https://github.com/jonnypei/swag-storytelling)
     - CritiCS [EMNLP '24] [[Paper]](https://aclanthology.org/2024.emnlp-main.1046/) [[Code]](https://github.com/EMNLP-2024-CritiCS/Collective-Critics-for-Creative-Story-Generation)
+    - BookWorld [EMNLP '24] [[Paper]](https://aclanthology.org/2025.acl-long.773.pdf) [[Code]](https://bookworld2025.github.io/)
   - *Persona-Based*:
     - Smallville [UIST '23] [[Paper]](https://dl.acm.org/doi/10.1145/3586183.3606763) [[Code]](https://github.com/joonspk-research/generative_agents)
     - AuraSight [[Paper]](http://arxiv.org/abs/2509.08927)
+    - OASIS [Open-World Agents Workshop @ NeurIPS '24] [[Paper]](https://openreview.net/pdf?id=gS0hprhg72)
 
 ### 2. Author Assistance
 LLMs act as **assistants to human authors**.
