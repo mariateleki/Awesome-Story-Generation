@@ -38,8 +38,10 @@ LLMs act as the **primary author**.
     - PMH [CSCW '24] [[Paper]](https://dl.acm.org/doi/10.1145/3678884.3681921)
     - MoPS [ACL '24] [[Paper]](https://aclanthology.org/2024.acl-long.117/)
     - LRL LM [AfricaNLP '25] [[Paper]](https://aclanthology.org/2025.africanlp-1.16/)
+    - CCI [ACL Findings '25] [[Paper]](https://aclanthology.org/2025.findings-acl.82/)
   - *Outline-Based*: 
     - DOME [NAACL '25] [[Paper]](https://aclanthology.org/2025.naacl-long.63/) [[Code]](https://github.com/Qianyue-Wang/Generating-Long-form-Story-Using-Dynamic-Hierarchical-Outlining-with-Memory-Enhancement) [[Dataset]](https://github.com/Qianyue-Wang/DOME_dataset)
+    - STORYTELLER [ACL '25] [[Paper]](https://aclanthology.org/2025.findings-acl.1071.pdf) 
 - **Multi-Agent Collaboration**
   - *Sequential*: 
     - CollabStory [NAACL '25] [[Paper]](https://aclanthology.org/2025.findings-naacl.203/) [[Code]](https://github.com/saranya-venkatraman/CollabStory)
