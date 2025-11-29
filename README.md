@@ -48,9 +48,11 @@ LLMs act as the **primary author**.
   - *Role-Based*: 
     - SWAG [EMNLP Findings '24] [[Paper]](https://aclanthology.org/2024.findings-emnlp.824/) [[Code]](https://github.com/jonnypei/swag-storytelling)
     - CritiCS [EMNLP '24] [[Paper]](https://aclanthology.org/2024.emnlp-main.1046/) [[Code]](https://github.com/EMNLP-2024-CritiCS/Collective-Critics-for-Creative-Story-Generation)
+    - BookWorld [EMNLP '24] [[Paper]](https://aclanthology.org/2025.acl-long.773.pdf) [[Code]](https://bookworld2025.github.io/)
   - *Persona-Based*:
     - Smallville [UIST '23] [[Paper]](https://dl.acm.org/doi/10.1145/3586183.3606763) [[Code]](https://github.com/joonspk-research/generative_agents)
     - AuraSight [[Paper]](http://arxiv.org/abs/2509.08927)
+    - OASIS [Open-World Agents Workshop @ NeurIPS '24] [[Paper]](https://openreview.net/pdf?id=gS0hprhg72)
 
 ### 2. Author Assistance
 LLMs act as **assistants to human authors**.
